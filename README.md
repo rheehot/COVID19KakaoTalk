@@ -33,4 +33,3 @@
 
 * 자세한 사용법은 COVID19헬스체커.pdf 문서를 참고하세요.
 * For english please see COVID19HealtchChecker_manual.pdf 
-
